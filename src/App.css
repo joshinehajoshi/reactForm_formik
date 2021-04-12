@@ -1,0 +1,33 @@
+.app {
+  margin-left: 40rem;
+  margin-right:40rem;
+  
+}
+.heading {
+  text-align: center;
+  margin-top: 5rem;
+  margin-bottom:5rem;
+}
+
+.forms {
+  border: 4px black solid;
+  padding: 1rem;
+  background-color:rgba(135, 138, 139, 0.739);
+  margin-top: 5rem;
+
+  
+}
+
+.form-control{
+  margin-bottom: 20px;
+}
+.errors{
+  color: red;
+}
+
+.btn1 {
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+
+}
